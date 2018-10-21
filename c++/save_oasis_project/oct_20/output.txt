@@ -1,0 +1,25 @@
+000000000	magic_byte "%SEMI-OASI<CR><CL>"
+
+000000013	START id=1 version="1.0" unit=real7(2000.0)
+
+000000028	PROPERTY id=28 UUUUVCNS=00010110 ref_num=0 value_count=1 type=14 value=0
+
+000000033	CELL id=13 ref_num=0
+
+000000035	XYRELATIVE id=16
+
+000000036	RECTANGLE id=20 SWHXYRDL=01100011 layer=31 datatype=250  width=0.010  height=0.020  actual_xy=(0.000,0.000)
+
+000000043	RECTANGLE id=20 SWHXYRDL=01000001 layer=32  width=0.030 (same previous height)  actual_xy=(0.000,0.000)
+
+000000047	CELLNAME id=3 cellname="TEST"
+
+000000053	PROPERTY id=28 UUUUVCNS=00010111 ref_num=1 value_count=1 type=8 value=33
+
+000000058	PROPNAME id=7 propname="OASIS_LIB_REVISION"
+
+000000078	PROPNAME id=7 propname="S_CELL_OFFSET"
+
+000000093	PROPSTRING id=9 propstring="Synopsys OASIS Library J-2014.06-SP1.397971"
+
+000000138	END id=2 table_offsets=[(1,47) (1,0) (1,58) (1,93) (1,0) (1,0)] padding_string=238 validation_scheme=CRC32 validation_signature=6e77ee46

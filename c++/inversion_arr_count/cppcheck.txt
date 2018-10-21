@@ -1,0 +1,1 @@
+[main.cpp:7]: (error) Array 'arr[10]' accessed at index 10, which is out of bounds.
