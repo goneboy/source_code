@@ -6,11 +6,11 @@ echo $myName
 
 # source other scripts
 # run the command in the current shell
-source child
+#source child
 
 
 # call other scripts
 # run the command in new shell
-# ./child
+ ./child
 
 echo $myName
