@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+myName="[father]: trung"
+echo $myName
+
+# source other scripts
+# run the command in the current shell
+source child
+
+
+# call other scripts
+# run the command in new shell
+# ./child
+
+echo $myName
